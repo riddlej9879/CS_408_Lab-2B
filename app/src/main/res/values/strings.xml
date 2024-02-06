@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_2B-Temp-Converter</string>
+    <string name="fahrenheitLblText">Fahrenheit:</string>
+    <string name="celsiusLblText">Celsius:</string>
+    <string name="fahrenheitInputText"> </string>
+    <string name="celsiusInputText"> </string>
+    <string name="convertBtnLbl">Convert</string>
+    <string name="fahrenheitHint">Enter temp in F</string>
+    <string name="celsiusHint">Enter temp in C</string>
+</resources>
